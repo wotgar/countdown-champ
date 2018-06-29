@@ -13,7 +13,17 @@
   margin: 10px;
 }
 
+.Deadline-group {
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%
+}
+
 .Deadline-input {
+  background-color: #FBFFFF;
   font-size: 25px;
-  margin: 5px;
+}
+
+.Deadline-button {
+  background-color: #F7FFFF;
 }
